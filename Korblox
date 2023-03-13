@@ -1,0 +1,6 @@
+local args = {
+    [1] = "Deathspeaker",
+    [2] = 14
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyShopWeapon"):FireServer(unpack(args))

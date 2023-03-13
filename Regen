@@ -1,0 +1,11 @@
+while true do
+wait(.0)
+
+local args = {
+    [1] = true,
+    [2] = 100
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("UpgradeEvents"):WaitForChild("Healthregen"):InvokeServer(unpack(args))
+
+end

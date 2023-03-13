@@ -1,0 +1,6 @@
+local args = {
+    [1] = "Obliteration Sword",
+    [2] = 30
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyShopWeapon"):FireServer(unpack(args))

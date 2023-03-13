@@ -1,0 +1,6 @@
+local args = {
+    [1] = "Ban Hammer",
+    [2] = 28
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyShopWeapon"):FireServer(unpack(args))

@@ -1,0 +1,21 @@
+for i = 1, 200 do
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+local Event = game:GetService("ReplicatedStorage").Events.DailyGift
+Event:InvokeServer()
+wait()
+end

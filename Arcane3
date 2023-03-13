@@ -1,0 +1,340 @@
+while true do
+wait(.0)
+
+local args = {
+    [1] = Vector3.new(-636.6303100585938, 4.604087829589844, -0.9396820068359375)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-82.90000915527344, 4.850780487060547, 8.64511489868164)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-53.807186126708984, 3.9799370765686035, 18.06903839111328)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-51.26722717285156, 4.496655464172363, 26.22784423828125)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-47.92696762084961, 4.827737808227539, 34.29206466674805)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-45.26682662963867, 3.874795913696289, 45.46206283569336)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-47.696136474609375, 2.9213690757751465, 75.04872131347656)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-36.09394836425781, 5.5355987548828125, 84.7175521850586)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-23.480934143066406, 6.426440238952637, 84.7175521850586)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-16.648900985717773, 7.4221954345703125, 84.7175521850586)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-8.33787727355957, 6.960730075836182, 84.72708129882812)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(28.71691131591797, 12.236839294433594, 631.7014770507812)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(23.094684600830078, 4.834077835083008, 262.94171142578125)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(9.132644653320312, 3.9125967025756836, 85.32701873779297)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(17.190807342529297, 5.6452412605285645, 84.72796630859375)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(25.496826171875, 4.8232293128967285, 84.72796630859375)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(21.903522491455078, 6.166293144226074, 58.46979522705078)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(32.00038146972656, 4.515082359313965, 54.28749084472656)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(26.827699661254883, 6.004227161407471, 56.430110931396484)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(37.63234329223633, 5.139232635498047, 51.954627990722656)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(76.58961486816406, 5.541642189025879, 78.686279296875)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(50.55923843383789, 5.607208251953125, 39.018035888671875)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.08954620361328, 4.500659465789795, 49.45403289794922)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.08954620361328, 5.339235782623291, 30.060062408447266)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.1001205444336, 7.781586170196533, 10.57791805267334)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.10013580322266, 8.289545059204102, 7.049198150634766)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.8000259399414, 6.363779067993164, -0.9940948486328125)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.8000259399414, 5.067927360534668, -8.262507438659668)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(87.7120361328125, 5.0671892166137695, -13.566780090332031)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.0999755859375, 5.34169864654541, -30.679039001464844)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.0999755859375, 7.055572509765625, -42.490665435791016)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(88.0999755859375, 8.01811408996582, -51.52167892456055)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(49.56708908081055, 4.6717376708984375, -39.10354232788086)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(73.49556732177734, 3.4008617401123047, -77.89327239990234)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(61.228607177734375, 4.477919101715088, -86.2616958618164)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(30.071033477783203, 5.148312568664551, -60.688865661621094)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(21.564380645751953, 5.14511251449585, -63.385684967041016)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(21.25473976135254, 4.070762634277344, -86.2616958618164)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(10.254016876220703, 4.580862045288086, -86.27305603027344)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(34.560855865478516, 5.455341339111328, -217.44613647460938)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(14.864317893981934, 6.568471908569336, -208.74310302734375)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-4.673550128936768, 4.704851150512695, -86.97294616699219)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-12.671815872192383, 6.243368148803711, -86.27210998535156)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-18.595483779907227, 6.29759407043457, -52.46710968017578)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-26.371503829956055, 6.557094097137451, -48.91964340209961)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-47.942604064941406, 5.41326904296875, -75.95162963867188)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-44.59850311279297, 4.878072261810303, -47.37944412231445)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-71.01998138427734, 5.0625786781311035, -61.66209030151367)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-82.88966369628906, 6.813587665557861, -52.966365814208984)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-64.29183197021484, 7.288882732391357, -28.610502243041992)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-82.88966369628906, 6.43510627746582, -22.352901458740234)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-625.2418212890625, 15.462303161621094, -69.9498291015625)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-624.711181640625, 15.459793090820312, -73.16511535644531)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-634.6865234375, 6.281303405761719, -12.718330383300781)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-83.4999771118164, 4.133705139160156, 6.035592079162598)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+local args = {
+    [1] = Vector3.new(-75.13313293457031, 5.693286895751953, 13.554608345031738)
+}
+
+game:GetService("Players").LocalPlayer.Character:FindFirstChild("Arcane Staff264840757064").FireStaff:FireServer(unpack(args))
+
+end

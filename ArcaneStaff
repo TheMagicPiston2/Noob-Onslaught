@@ -1,0 +1,6 @@
+local args = {
+    [1] = "Arcane Staff",
+    [2] = 29
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("BuyShopWeapon"):FireServer(unpack(args))
